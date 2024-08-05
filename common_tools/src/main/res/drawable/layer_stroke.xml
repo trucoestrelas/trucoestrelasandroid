@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:shape="oval">
+            <solid android:color="#32a864" />
+            <stroke
+                android:width="18dp"
+                android:color="#6B442F" /> <!-- Cor do stroke externo -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+    <item android:left="4dp" android:right="4dp" android:top="4dp" android:bottom="4dp">
+        <shape
+            android:shape="oval">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="12dp"
+                android:color="#957a56" /> <!-- Cor do stroke interno -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</layer-list>

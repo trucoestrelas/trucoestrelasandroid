@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="win_match_title">Você venceu!</string>
+    <string name="lost_match_title">Você perdeu!</string>
+    <string name="next_button">CONTINUAR</string>
+</resources>

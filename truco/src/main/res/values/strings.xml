@@ -1,0 +1,14 @@
+<resources>
+    <string name="btn_truco">Truco!</string>
+    <string name="btn_6">6</string>
+    <string name="btn_9">9</string>
+    <string name="btn_12">12</string>
+    <string name="btn_aguarde">Aguarde</string>
+    <string name="status_text_vez_do_jogador">Vez do jogador #%s</string>
+    <string name="status_text_e_sua_vez">É a sua vez!</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="btn_jogar_carta">Jogar %s de %s</string>
+    <string name="waiting_for_players">Aguardando Jogadores…</string>
+    <string name="match_starting_in">O jogo irá começar em %s.</string>
+    <string name="game_id">Jogo #%s</string>
+</resources>

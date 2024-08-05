@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_box_title">Mensagens</string>
+    <string name="chat_box_default_message_truco">0%s (Time %s) pediu Truco!</string>
+    <string name="chat_box_default_message_6">%s (Time %s) pediu 6!</string>
+    <string name="chat_box_default_message_9">%s (Time %s) pediu 9!</string>
+    <string name="chat_box_default_message_12">%s (Time %s) pediu 12!</string>
+    <string name="chat_box_default_venceu_turno">Time %s venceu o turno.</string>
+    <string name="chat_box_default_maior_carta">Carta %s foi a maior do turno.</string>
+    <string name="chat_box_default_vez_jogador">É a sua vez, %s.</string>
+    <string name="chat_box_default_jogador_entrou_sala">Jogador %s entrou na sala.</string>
+</resources>
