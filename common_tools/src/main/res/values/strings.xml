@@ -30,4 +30,14 @@
     <string name="subscribe_btn">Inscrever-se</string>
     <string name="cancel_subscribe_btn">Cancelar Inscrição</string>
     <string name="recompensas">Recompensas</string>
+
+    <!-- Profile Screen -->
+    <string name="btn_change_avatar">Trocar Avatar</string>
+    <string name="wallet_label">Sua Carteira</string>
+    <string name="wallet_saldo">Saldo</string>
+    <string name="wallet_saldo_bloqueado">Saldo Bloqueado *</string>
+    <string name="wallet_saldo_bloqueado_description">* Valores bloqueados até o inicio do torneio.</string>
+    <string name="add_funds">Adicionar Fundos</string>
+    <string name="your_rewards">Suas Recompensas</string>
+    <string name="wallet_history">Histórico de Transações</string>
 </resources>
