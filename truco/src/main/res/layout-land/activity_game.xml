@@ -58,6 +58,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:background="@drawable/bg_btn_feet"
+        android:src="@drawable/feet"
+        app:layout_constraintBottom_toBottomOf="@+id/frame_player_1"
+        app:layout_constraintEnd_toStartOf="@+id/frame_player_1" />
+
     <FrameLayout
         android:id="@+id/frame_deck"
         android:layout_width="wrap_content"
@@ -135,6 +143,7 @@
         android:layout_width="54dp"
         android:layout_height="54dp"
         android:layout_marginStart="4dp"
+        android:visibility="gone"
         android:background="@drawable/bg_player_red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -155,6 +164,7 @@
         android:layout_width="54dp"
         android:layout_height="54dp"
         android:layout_marginEnd="4dp"
+        android:visibility="gone"
         android:background="@drawable/bg_player_red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -222,62 +232,6 @@
         app:layout_constraintTop_toTopOf="@+id/iv_player2_mao2"
         app:layout_constraintStart_toEndOf="@+id/iv_player2_mao2" />
 
-    <ImageView
-        android:id="@+id/iv_player3_mao1"
-        android:layout_width="68dp"
-        android:layout_height="48dp"
-        android:src="@drawable/back_inverted"
-        app:layout_constraintBottom_toTopOf="@+id/iv_player3_mao2"
-        app:layout_constraintStart_toStartOf="@+id/iv_player3_mao2" />
-
-    <ImageView
-        android:id="@+id/iv_player3_mao2"
-        android:layout_width="68dp"
-        android:layout_height="48dp"
-
-        android:src="@drawable/back_inverted"
-        android:layout_marginStart="4dp"
-        app:layout_constraintBottom_toBottomOf="@+id/frame_player_3"
-        app:layout_constraintStart_toEndOf="@+id/frame_player_3"
-        app:layout_constraintTop_toTopOf="@+id/frame_player_3" />
-
-    <ImageView
-        android:id="@+id/iv_player3_mao3"
-        android:layout_width="68dp"
-        android:layout_height="48dp"
-
-        android:src="@drawable/back_inverted"
-        app:layout_constraintStart_toStartOf="@+id/iv_player3_mao2"
-        app:layout_constraintTop_toBottomOf="@+id/iv_player3_mao2" />
-
-    <ImageView
-        android:id="@+id/iv_player4_mao1"
-        android:layout_width="68dp"
-        android:layout_height="48dp"
-
-        android:src="@drawable/back_inverted"
-        app:layout_constraintBottom_toTopOf="@+id/iv_player4_mao2"
-        app:layout_constraintStart_toStartOf="@+id/iv_player4_mao2"/>
-
-    <ImageView
-        android:id="@+id/iv_player4_mao2"
-        android:layout_width="68dp"
-        android:layout_height="48dp"
-
-        android:src="@drawable/back_inverted"
-        android:layout_marginEnd="4dp"
-        app:layout_constraintBottom_toBottomOf="@+id/frame_player_4"
-        app:layout_constraintEnd_toStartOf="@+id/frame_player_4"
-        app:layout_constraintTop_toTopOf="@+id/frame_player_4" />
-
-    <ImageView
-        android:id="@+id/iv_player4_mao3"
-        android:layout_width="68dp"
-        android:layout_height="48dp"
-
-        android:src="@drawable/back_inverted"
-        app:layout_constraintStart_toStartOf="@+id/iv_player4_mao2"
-        app:layout_constraintTop_toBottomOf="@+id/iv_player4_mao2" />
 
 
 

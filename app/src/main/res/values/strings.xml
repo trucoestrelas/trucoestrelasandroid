@@ -3,8 +3,10 @@
 
     <string name="btn_jogar">Jogar</string>
     <string name="btn_jogar_carta">Jogar %s de %s</string>
-
-
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_play">Jogar</string>
+    <string name="title_ranking">Ranking</string>
+    <string name="title_profile">Conta</string>
 
 
 </resources>

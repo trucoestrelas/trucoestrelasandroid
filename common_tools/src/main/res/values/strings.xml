@@ -3,4 +3,31 @@
     <string name="win_match_title">Você venceu!</string>
     <string name="lost_match_title">Você perdeu!</string>
     <string name="next_button">CONTINUAR</string>
+    <string name="level">Level</string>
+    <string name="rank">Rank</string>
+
+    <!-- Play Screen -->
+    <string name="aba_truco">Truco</string>
+    <string name="aba_fodinha">F#dinha</string>
+    <string name="quick_play">Jogo rápido</string>
+    <string name="quick_play_btn">Encontrar</string>
+    <string name="quick_play_description">Busque adversários a sua altura.</string>
+    <string name="quick_play_truco_1x1">Mano-a-Mano (GRÁTIS)</string>
+    <string name="quick_play_truco_2x2">Duplas (GRÁTIS)</string>
+    <string name="quick_play_truco_1x1_priced">Mano-a-Mano (D$ 5)</string>
+    <string name="quick_play_truco_2x2_priced">Duplas (D$ 5)</string>
+    <string name="quick_play_fodinha_solo">Jogar Solo</string>
+    <string name="quick_play_fodinha_group">Jogar em Grupo</string>
+    <string name="help_me_title">Não sabe jogar?</string>
+    <string name="help_me_truco_text">Aprenda o básico das regras de Truco.</string>
+    <string name="help_me_fodinha_text">Aprenda o básico das regras de F#dinha.</string>
+    <string name="help_me_btn">Veja Mais</string>
+    <string name="torneio_label">Torneios abertos</string>
+    <!-- Card Torneio -->
+    <string name="torneio_label_qtd_minima">Quantidade Mínima: %s</string>
+    <string name="torneio_label_inscricoes">Inscrições: %s</string>
+    <string name="torneio_label_up_to_date">Prazo: %s</string>
+    <string name="subscribe_btn">Inscrever-se</string>
+    <string name="cancel_subscribe_btn">Cancelar Inscrição</string>
+    <string name="recompensas">Recompensas</string>
 </resources>
