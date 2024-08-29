@@ -62,6 +62,7 @@ dependencies {
     implementation(libs.androidx.navigation.ui.ktx)
     implementation(libs.androidx.viewpager2)
     implementation(libs.lottie)
+    implementation (libs.glide)
 
 
     testImplementation(libs.junit)

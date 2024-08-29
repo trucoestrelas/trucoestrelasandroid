@@ -58,5 +58,4 @@ dependencies {
     implementation(libs.converter.gson)
 
     implementation(libs.lottie)
-    implementation(libs.glide)
 }

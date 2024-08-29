@@ -46,7 +46,7 @@
                 app:layout_constraintTop_toBottomOf="@id/layout_help_fodinha" />
 
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/btn_quick_play_fodinha_solo"
+                android:id="@+id/btn_quick_play_truco_solo"
                 android:layout_width="0dp"
                 android:layout_height="48dp"
                 android:layout_marginTop="8dp"
@@ -57,7 +57,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/tv_label_quick_game" />
 
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/btn_quick_play_fodinha_group"
+                android:id="@+id/btn_quick_play_truco_group"
                 android:layout_width="0dp"
                 android:layout_height="48dp"
                 android:layout_marginTop="8dp"
@@ -65,7 +65,7 @@
                 android:text="@string/quick_play_fodinha_group"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btn_quick_play_fodinha_solo" />
+                app:layout_constraintTop_toBottomOf="@+id/btn_quick_play_truco_solo" />
 
 
             <com.google.android.material.textview.MaterialTextView
@@ -77,7 +77,7 @@
                 android:textSize="24sp"
                 android:textStyle="bold"
                 app:layout_constraintStart_toStartOf="@+id/layout_help_fodinha"
-                app:layout_constraintTop_toBottomOf="@+id/btn_quick_play_fodinha_group" />
+                app:layout_constraintTop_toBottomOf="@+id/btn_quick_play_truco_group" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:layout_width="match_parent"

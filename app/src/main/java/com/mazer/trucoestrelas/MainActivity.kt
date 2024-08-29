@@ -11,7 +11,7 @@ import com.mazer.trucoestrelas.databinding.ActivityMainBinding
 import com.mazer.trucoestrelas.ui.play.fodinha.FodinhaFragment
 import com.mazer.trucoestrelas.ui.play.truco.TrucoFragment
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : BaseActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
