@@ -63,6 +63,8 @@ dependencies {
     implementation(libs.androidx.viewpager2)
     implementation(libs.lottie)
     implementation (libs.glide)
+    implementation(libs.kotlinx.coroutines.core)
+    implementation(libs.kotlinx.coroutines.android)
 
 
     testImplementation(libs.junit)

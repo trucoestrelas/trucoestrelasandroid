@@ -7,6 +7,11 @@
     <string name="title_play">Jogar</string>
     <string name="title_ranking">Ranking</string>
     <string name="title_profile">Conta</string>
-
+    <!-- Queue Quick Match -->
+    <string name="queue_title">Procurando Partida…</string>
+    <string name="queue_waiting_time">Tempo de espera: %s</string>
+    <string name="queue_quit">Sair da Fila</string>
+    <string name="partida_encontrada">Partida Encontrada!</string>
+    <string name="game_starting">Seu jogo já vai começar</string>
 
 </resources>

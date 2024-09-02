@@ -38,12 +38,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="16dp"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/frame_user_avatar"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="Username" />
+        android:text="Username" />
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/tv_level_label"

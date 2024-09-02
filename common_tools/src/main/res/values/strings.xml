@@ -41,4 +41,9 @@
     <string name="add_funds">Adicionar Fundos</string>
     <string name="your_rewards">Suas Recompensas</string>
     <string name="wallet_history">Histórico de Transações</string>
+
+    <!-- Queue Quick Match -->
+    <string name="queue_title">Procurando Partida…</string>
+    <string name="queue_waiting_time">Tempo de espera: %s</string>
+    <string name="queue_quit">Sair da Fila</string>
 </resources>
